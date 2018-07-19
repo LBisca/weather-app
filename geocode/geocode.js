@@ -1,4 +1,4 @@
-const request = require('request');
+const request = require('/home/lucas/Visual_Studio/Node/weather-app/node_modules/request');
 
 var geocodeAddress = (address, callback) => {
 
@@ -23,3 +23,9 @@ var geocodeAddress = (address, callback) => {
 };
 
 module.exports.geocodeAddress = geocodeAddress;
+
+
+
+
+
+
